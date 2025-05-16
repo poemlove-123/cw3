@@ -1,16 +1,8 @@
 var properties = {
-  title: "SurVis – Model Construction Games",
-  yearAttribute: "year",
-  attributes: {
-    authors: {
-      title: "Authors",
-      isList: true
-    },
-    venue: {
-      title: "Venue"
-    },
-    doi: {
-      title: "DOI"
-    }
-  }
+  "title": "title",
+  "authors": "authors",
+  "venue": "venue",
+  "year": "year",
+  "keywords": "keywords",
+  "link": "link"
 };
