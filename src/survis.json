@@ -1,0 +1,95 @@
+{
+  "title": "Model Construction Games in First-Order Logic",
+  "papers": [
+    {
+      "id": "vanBenthem2001",
+      "title": "Logic Games are Complete for Game Logics",
+      "authors": "Johan van Benthem",
+      "year": 2001,
+      "venue": "University of Amsterdam",
+      "doi": "",
+      "keywords": ["game semantics", "FOL", "logic games"]
+    },
+    {
+      "id": "Laurent2010",
+      "title": "Game Semantics for First-Order Logic",
+      "authors": "Olivier Laurent",
+      "year": 2010,
+      "venue": "ENS Lyon",
+      "doi": "",
+      "keywords": ["game semantics", "quantifiers", "constructive logic"]
+    },
+    {
+      "id": "Lund2000",
+      "title": "Game-Theoretical Semantics for First-Order Logic",
+      "authors": "Lund University Technical Note",
+      "year": 2000,
+      "venue": "Lund University",
+      "doi": "",
+      "keywords": ["game semantics", "strategy", "logic"]
+    },
+    {
+      "id": "Wikipedia2024",
+      "title": "Game Semantics",
+      "authors": "Wikipedia contributors",
+      "year": 2024,
+      "venue": "Wikipedia",
+      "doi": "",
+      "keywords": ["overview", "game theory", "FOL"]
+    },
+    {
+      "id": "Goranko2010",
+      "title": "First-Order Semantic Tableau",
+      "authors": "Valentin Goranko",
+      "year": 2010,
+      "venue": "DTU Informatics",
+      "doi": "",
+      "keywords": ["semantic tableau", "proof rules"]
+    },
+    {
+      "id": "Leitsch2004",
+      "title": "Automated Model Building",
+      "authors": "Alexander Leitsch",
+      "year": 2004,
+      "venue": "Logic.at",
+      "doi": "",
+      "keywords": ["model building", "heuristics", "automation"]
+    },
+    {
+      "id": "TUM2019",
+      "title": "Propositional and First-Order Logic Tableaux: Concept and Heuristics",
+      "authors": "TUM Logic Group",
+      "year": 2019,
+      "venue": "Technical University of Munich",
+      "doi": "",
+      "keywords": ["tableau", "optimization", "complexity"]
+    },
+    {
+      "id": "Springer1990",
+      "title": "Automated Model Construction: A Logic-Based Approach",
+      "authors": "Unknown",
+      "year": 1990,
+      "venue": "Annals of Operations Research",
+      "doi": "10.1007/BF02022100",
+      "keywords": ["operations research", "model construction"]
+    },
+    {
+      "id": "Genesereth2003",
+      "title": "Logic-Based Artificial Intelligence",
+      "authors": "Michael Genesereth and Nils Nilsson",
+      "year": 2003,
+      "venue": "Stanford Encyclopedia of Philosophy",
+      "doi": "",
+      "keywords": ["AI", "non-monotonic logic", "reasoning"]
+    },
+    {
+      "id": "LTN2020",
+      "title": "Logic Tensor Networks",
+      "authors": "Badreddine, Garcez, Serafini, Spranger",
+      "year": 2020,
+      "venue": "arXiv",
+      "doi": "10.48550/arXiv.2012.13635",
+      "keywords": ["neuro-symbolic", "deep learning", "logic"]
+    }
+  ]
+}
